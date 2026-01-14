@@ -1,5 +1,5 @@
 # BO4 LUCY MENU
-Lucy Menu is a free open source Call of Duty Black Ops 4 GSC Mod Menu, It currently is set only to work on IX But that will change in the future. Since the menu is open source you can do whatever you want with it!
+Lucy Menu is a free open source Call of Duty Black Ops 4 GSC Mod Menu. Since the menu is open source you can do whatever you want with it, just please leave credits!
 
 ## HOW TO INSTALL
 Step 1 -> Watch and follow along this youtube video to correctly install the injector and learn how to inject: https://youtu.be/AGcMTisF6iA
